@@ -42,7 +42,7 @@ Atualmente trabalho como **Analista de Suporte Jr** em uma empresa que sempre so
 ---
 
 ## Curiosidades
-- Adquirindo Experiência como **Analista de suporte Tecnico**, onde atuo facilitando a comunicação entre tecnologia e usuários sem conhecimento técnico.  
+- Sou **Analista de suporte Tecnico**, onde atuo facilitando a comunicação entre tecnologia e usuários sem conhecimento técnico.  
 - Foco em **aprendizado contínuo**, metodologias ágeis e desenvolvimento de soluções digitais.
 
 
