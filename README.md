@@ -35,14 +35,14 @@ Atualmente trabalho como **Analista de Suporte Jr** em uma empresa que sempre so
 
 ---
 
-##Contato
-- LinkedIn: [https://www.linkedin.com/in/aline-savassi-77a7ba336](link)  
+## Contato
+- LinkedIn: [https://www.linkedin.com/in/alinesavassi/](https://www.linkedin.com/in/aline-savassi-77a7ba336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - E-mail: savassiaraujo@gmail.com  
 
 ---
 
 ## Curiosidades
-- Adquirindo Experiência em **Analise de suporte técnico**, onde ajo facilitando a comunicação entre tecnologia e usuários sem conhecimento técnico.  
+- Adquirindo Experiência em **Analise de suporte técnico**, onde atuo facilitando a comunicação entre tecnologia e usuários sem conhecimento técnico.  
 - Foco em **aprendizado contínuo**, metodologias ágeis e desenvolvimento de soluções digitais.
 
 
