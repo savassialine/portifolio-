@@ -27,7 +27,7 @@ Atualmente trabalho como **Analista de Suporte Jr** em uma empresa que sempre so
 - **Aprendizado:** Análise de dados, visualização de informações e facilitação de decisões financeiras.  
 - **Status:** Em desenvolvimento
 
-### [Lista de Tarefas Interativas](https://github.com/users/savassialine/projects/2/settings)
+### [Lista de Tarefas Interativas]([https://github.com/users/savassialine/projects/2/settings](https://github.com/savassialine/Lista-de-Tarefas-Interativa/blob/main/README2.md))
 - **Desafio:** Organizar tarefas pessoais ou de estudo de forma digital.  
 - **Solução:** Aplicação web simples usando HTML, CSS e JavaScript para adicionar, marcar como concluída e remover tarefas.  
 - **Aprendizado:** Programação front-end, manipulação do DOM e lógica de eventos.  
