@@ -21,13 +21,13 @@ Atualmente trabalho como **Analista de Suporte Jr** em uma empresa que sempre so
 
 ## Projetos em andamento:
 
-### [Dashboard de Controle de Gastos Pessoais](https://github.com/savassialine/Dashboard-de-Controle-de-Gastos-Pessoais/edit/main/README.md))
+### [Dashboard de Controle de Gastos Pessoais](https://github.com/savassialine/Dashboard-de-Controle-de-Gastos-Pessoais/edit/main/README.md)
 - **Desafio:** Visualizar receitas e despesas de maneira simples.  
 - **Solução:** Criação de um dashboard em Excel, usando gráficos e filtros.  
 - **Aprendizado:** Análise de dados, visualização de informações e facilitação de decisões financeiras.  
 - **Status:** Em desenvolvimento
 
-### [Lista de Tarefas Interativas](https://github.com/users/savassialine/projects/2/settings)
+### [Lista de Tarefas Interativas](https://github.com/savassialine/Lista-de-Tarefas-Interativa/blob/main/README2.md))
 - **Desafio:** Organizar tarefas pessoais ou de estudo de forma digital.  
 - **Solução:** Aplicação web simples usando HTML, CSS e JavaScript para adicionar, marcar como concluída e remover tarefas.  
 - **Aprendizado:** Programação front-end, manipulação do DOM e lógica de eventos.  
