@@ -21,7 +21,7 @@ Atualmente trabalho como **Analista de Suporte Jr** em uma empresa que sempre so
 
 ## Projetos em andamento:
 
-### [Dashboard de Controle de Gastos Pessoais](https://github.com/users/savassialine/projects/2)
+### [Dashboard de Controle de Gastos Pessoais]()
 - **Desafio:** Visualizar receitas e despesas de maneira simples.  
 - **Solução:** Criação de um dashboard em Excel, usando gráficos e filtros.  
 - **Aprendizado:** Análise de dados, visualização de informações e facilitação de decisões financeiras.  
